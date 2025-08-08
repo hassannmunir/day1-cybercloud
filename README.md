@@ -1,4 +1,4 @@
-# day1-cybercloud
+# cybercloud Journey
 Day 1 Notes of Cybersecurity, Cloud, and Bug Bounty Learning Journey
 # 🚀 My Learning Journey: Cybersecurity + Cloud + Bug Bounty
 
