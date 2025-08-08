@@ -1,0 +1,16 @@
+# Nmap Network Scanning Practice - Day 3
+
+Today, I practiced various Nmap scanning techniques on the public test server `scanme.nmap.org`.
+
+## Commands I Used:
+- `nmap scanme.nmap.org` → Basic scan for open ports.
+- `nmap -sS scanme.nmap.org` → SYN (stealth) scan for open ports.
+- `nmap -A scanme.nmap.org` → Aggressive scan with OS & service detection.
+- `nmap -p- scanme.nmap.org` → Scan all 65,535 ports.
+
+## Learning Outcome:
+- Understood the difference between default, stealth, aggressive, and full-port scans.
+- Learned why stealth scanning is useful for evading detection.
+- Discovered how aggressive scanning can reveal OS, services, and even potential vulnerabilities.
+
+⚠️ All scans were run on `scanme.nmap.org`, which is legally safe for testing.
